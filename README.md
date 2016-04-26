@@ -1,2 +1,2 @@
-# Ideas
-Random finished/unfinished ideas
+# Master file
+desc
